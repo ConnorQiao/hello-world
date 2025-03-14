@@ -1,2 +1,2 @@
-# My name is 
+# My name is Connor Qiao
 First repository
