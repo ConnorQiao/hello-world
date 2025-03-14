@@ -1,2 +1,2 @@
-# hello-world
+# My name is Connor Qiao
 First repository
